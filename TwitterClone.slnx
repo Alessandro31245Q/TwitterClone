@@ -1,3 +1,8 @@
 <Solution>
-  <Project Path="TwitterClone.csproj" />
+  <Project Path="TwitterClone.Api/TwitterClone.Api.csproj" />
+  <Project Path="TwitterClone.Application/TwitterClone.Application.csproj" />
+  <Project Path="TwitterClone.Domain/TwitterClone.Domain.csproj" />
+  <Project Path="TwitterClone.Infrastructure/TwitterClone.Infrastructure.csproj" />
+  <Project Path="TwitterClone.Tests/TwitterClone.Tests.csproj" />
+  <Project Path="TwitterClone.Web/TwitterClone.Web.csproj" />
 </Solution>
